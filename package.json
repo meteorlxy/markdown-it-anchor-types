@@ -1,5 +1,8 @@
 {
   "type": "module",
+  "scripts": {
+    "build": "tsc --noEmit"
+  },
   "dependencies": {
     "@types/markdown-it": "^12.2.3",
     "markdown-it": "^13.0.1",
