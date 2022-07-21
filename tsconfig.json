@@ -1,11 +1,8 @@
 {
   "compilerOptions": {
     "noImplicitAny": true,
-    "esModuleInterop": true,
-    "lib": ["ES2020"],
     "module": "ES2020",
     "moduleResolution": "Node16",
-    "target": "ES2020"
   },
   "include": ["index.ts"],
 }
